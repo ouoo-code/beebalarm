@@ -1,2 +1,2 @@
 # beebalarm
-啵啵闹钟
+啵啵闹钟 for android
